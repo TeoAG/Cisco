@@ -1,5 +1,3 @@
-#Packet Tracer#
-
-##Just a packet Tracer repo##
-
+Packet Tracer
+Just a packet Tracer repo
 random things in cisco packet tracer
